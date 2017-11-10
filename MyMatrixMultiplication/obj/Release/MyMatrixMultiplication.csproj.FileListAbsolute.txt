@@ -1,0 +1,6 @@
+C:\Users\Darshan\documents\visual studio 2012\Projects\MyMatrixMultiplication\MyMatrixMultiplication\bin\Release\MyMatrixMultiplication.exe.config
+C:\Users\Darshan\documents\visual studio 2012\Projects\MyMatrixMultiplication\MyMatrixMultiplication\bin\Release\MyMatrixMultiplication.exe
+C:\Users\Darshan\documents\visual studio 2012\Projects\MyMatrixMultiplication\MyMatrixMultiplication\bin\Release\MyMatrixMultiplication.pdb
+C:\Users\Darshan\documents\visual studio 2012\Projects\MyMatrixMultiplication\MyMatrixMultiplication\obj\Release\MyMatrixMultiplication.csprojResolveAssemblyReference.cache
+C:\Users\Darshan\documents\visual studio 2012\Projects\MyMatrixMultiplication\MyMatrixMultiplication\obj\Release\MyMatrixMultiplication.exe
+C:\Users\Darshan\documents\visual studio 2012\Projects\MyMatrixMultiplication\MyMatrixMultiplication\obj\Release\MyMatrixMultiplication.pdb
